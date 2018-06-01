@@ -1,7 +1,0 @@
-#+TITLE: 入门
-
-#+EBGIN_SRC go
-
-1.入门程序
-
-#+END_SRC
