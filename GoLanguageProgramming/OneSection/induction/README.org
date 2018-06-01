@@ -7,4 +7,8 @@
 2.1 for index 的方式 echo1.go
 2.2 for range 的方式 echo2.go
 2.3 strings join 的方式 echo3.go
+
+2.11 prac1 修改echo程序输出os.Args[0], 即命令的名字!!! prac1.go
+2.12 prac2 修改echo程序输出参数的索引和值, 每行一个!!! prac2.go
+2.13 prac3 尝试测试低效的程序和strings.Join的执行时间上面的差距!!! prac3.go
 #+END_SRC
