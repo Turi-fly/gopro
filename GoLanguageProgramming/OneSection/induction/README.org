@@ -1,7 +1,10 @@
 #+TITLE: 入门
 
-#+EBGIN_SRC go
+#+BEGIN_SRC go
 
 1.入门程序
-
+2.命令行参数
+2.1 for index 的方式 echo1.go
+2.2 for range 的方式 echo2.go
+2.3 strings join 的方式 echo3.go
 #+END_SRC
