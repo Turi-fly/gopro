@@ -3,5 +3,6 @@
 #+BEGIN_SRC go
 
 1.计算器小程序 (calcproj)
+2.变量的声明和定义初始化值相关(valirable)
 
 #+END_SRC
