@@ -3,6 +3,7 @@
 #+BEGIN_SRC go
 
 1.入门程序
+
 2.命令行参数
 2.1 for index 的方式 echo1.go
 2.2 for range 的方式 echo2.go
@@ -11,4 +12,7 @@
 2.11 prac1 修改echo程序输出os.Args[0], 即命令的名字!!! prac1.go
 2.12 prac2 修改echo程序输出参数的索引和值, 每行一个!!! prac2.go
 2.13 prac3 尝试测试低效的程序和strings.Join的执行时间上面的差距!!! prac3.go
+
+1.3 找出重复的行 ??
+1.3.1 dup1 输出标准输入中出现次数大于1的行.
 #+END_SRC
