@@ -42,4 +42,19 @@ func main() {
 	const u, v float32 = 0, 3   //常量多赋值操作
 	const a, b, c = 3, 4, "foo" // 无类型常量多赋值操作
 
+	////////////////////////////////////////
+	const ( // iota被重设为0
+		c0 = iota // c0 == 0
+		c1 = iota // c1 == 1
+		c2 = iota // c2 == 2
+	)
+
+	const (
+		a = 1 << iota // a == 1 (iota在每个const开头被重设为0)
+		b = 1 << iota // b == 2
+		c = 1 << iota // c == 4
+	)
+
+	const ()
+
 }
